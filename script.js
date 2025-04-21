@@ -1,5 +1,5 @@
 // Replace with your published CSV URL:
-const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSCuTn3s20mhkUt1ZIpWp-K7AN1CJ82_zYVfx0xrYJAFXHabSOGCrDY2h-BT7FvVpcHFiFKyxPfW9dT/pub?output=csv';
+const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSCuTn3s20mhkUt1ZIpWp-K7AN1CJ82_zYVfx0xrYJAFXHabSOGCrDY2h-BT7FvVpcHFiFKyxPfW9dT/pubhtml';
 
 function init() {
   Tabletop.init({
